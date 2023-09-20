@@ -4,8 +4,9 @@
 Create a simple novel terrain similar to the figure above. 
 
 
-Compile using most C++ compilers and execute via the command line
+Compile using most C++ compilers and execute via the command line.
+
 The program will prompt the user which weights to use for each octave of noise (play around with these values). 
 
 
-Generate a .ply file that can be viewed using 3D mesh viewer such as MeshLab
+Generate a .ply file that can be viewed using a 3D mesh viewer such as MeshLab
