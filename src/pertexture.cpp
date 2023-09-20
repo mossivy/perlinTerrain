@@ -8,9 +8,8 @@
 
 //based on javidx9 lerp method of perlin
 
-/*TODO:
-*
-*/
+// Code is Not DRY/organized/Documented
+// Proof of concept
 
   int w = 512;
   int h = 512;
